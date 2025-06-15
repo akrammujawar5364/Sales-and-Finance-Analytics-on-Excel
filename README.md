@@ -30,7 +30,7 @@
 
 ## Atliq Bussiness models
 
-<img width="600" alt="image" src="https://github.com/rajeshkumar1312/Sales-and-Finance-Analytics-on-Excel/blob/master/Finacial_Analysis/Atliq%20Bussiness%20Model.png">
+<img width="600" alt="image" src="https://github.com/akrammujawar5364/Sales-and-Finance-Analytics-on-Excel/blob/main/Atliq%20Bussiness%20Model.png/">
 
 ***
 
@@ -64,14 +64,14 @@ The primary purpose of the Sales Analytics report is to give us a detailed under
 ### 📌1:Top 10 Products with Sales Increase: We want to find which products had the biggest increase in sales from 2020 to 2021.
 
 
-<img width="600" alt="image" src="https://github.com/rajeshkumar1312/Sales-and-Finance-Analytics-on-Excel/blob/master/Sales_analysis/Top%2010%20Products%2021%20vs%2020.png">
+<img width="600" alt="image" src="https://github.com/akrammujawar5364/Sales-and-Finance-Analytics-on-Excel/blob/main/Top%2010%20Products%2021%20vs%2020.png">
 
 
 **Insights:**  Listed of the top ten products that have been doing really well from 2020 to 2021. One product, "AQ Electron 4 3600 Desktop processor," "AQ Pen Drive DRC" has been the best-seller for both years.
 
 ### 📌2: Division Sales Report: Create a report that shows how much money we made in 2020 and 2021 and how much our sales grew.
 
-<img width="700" alt="image" src="https://github.com/rajeshkumar1312/Sales-and-Finance-Analytics-on-Excel/blob/master/Sales_analysis/Division%20Report.png">
+<img width="700" alt="image" src="https://github.com/akrammujawar5364/Sales-and-Finance-Analytics-on-Excel/blob/main/Division%20Report.png">
 
 **Insights:** 
 - PCs sold really well, jumping from $40.1 million to $165.8 million in 2021.
@@ -82,27 +82,27 @@ The primary purpose of the Sales Analytics report is to give us a detailed under
 
 ### TOP 5 Products by QTY
 
-<img width="800" alt="image" src="https://github.com/rajeshkumar1312/Sales-and-Finance-Analytics-on-Excel/blob/master/Sales_analysis/Top%205%20Products-%20QTY.png">
+<img width="800" alt="image" src="https://github.com/akrammujawar5364/Sales-and-Finance-Analytics-on-Excel/blob/main/Top%205%20Country%20sales%20in%202021.png">
 
 **Insights:** 
 These insights highlight our best-performing products, with "AQ Master wired x1 Ms" leading Product. It's crucial to continue monitoring and promoting these popular items to maintain and optimizing our inventory and sales strategies.
 
 ### Bottom 5 Products by QTY
 
-<img width="800" alt="image" src="https://github.com/rajeshkumar1312/Sales-and-Finance-Analytics-on-Excel/blob/master/Sales_analysis/Bottom%205%20Products-%20QTY.png">
+<img width="800" alt="image" src="https://github.com/akrammujawar5364/Sales-and-Finance-Analytics-on-Excel/blob/main/Bottom%205%20Products-%20QTY.png">
 
 **Insights:** 
 These insights reveal the products with lower sales volumes. It's important to evaluate the performance of these items and consider whether adjustments are needed in marketing, inventory, or product offerings.
 
 ### 📌4: New Products in 2021: Figure out what new products Atliq started selling in 2021.
 
-<img width="700" alt="image" src="https://github.com/rajeshkumar1312/Sales-and-Finance-Analytics-on-Excel/blob/master/Sales_analysis/New%20Products%202021.png">
+<img width="700" alt="image" src="https://github.com/akrammujawar5364/Sales-and-Finance-Analytics-on-Excel/blob/main/New%20Products%202021.png">
 
 **Insights:** In 2021, we added 16 new products to our lineup, and they were very successful. One of them, "AQ Qwerty," did exceptionally well.
 
 ### 📌5.Top 5 Sales Countries in 2021: List the five countries where we made the most money in 2021.
 
-<img width="800" alt="image" src="https://github.com/rajeshkumar1312/Sales-and-Finance-Analytics-on-Excel/blob/master/Sales_analysis/Top%205%20Country%20sales%20in%202021.png">
+<img width="800" alt="image" src="https://github.com/akrammujawar5364/Sales-and-Finance-Analytics-on-Excel/blob/main/New%20Products%202021.png">
 
 **Insights:** India led the way with the most sales at $161.3 million. The USA, South Korea, the United Kingdom, and Canada also had strong sales.
 
@@ -130,9 +130,9 @@ Financial reports are critical tools for thoroughly assessing economic trends, d
 
 ### 📌1.Customer Net Sales Performance Report: This report provides a detailed overview of how much revenue we've earned from our customers.
 
-<img width="700" alt="image" src="https://github.com/rajeshkumar1312/Sales-and-Finance-Analytics-on-Excel/blob/master/Sales_analysis/Customer%20Performance%20Report-1.png">
+<img width="700" alt="image" src="https://github.com/akrammujawar5364/Sales-and-Finance-Analytics-on-Excel/blob/main/Customer%20Performance%20Report.pdf">
 
-<img width="700" alt="image" src="https://github.com/rajeshkumar1312/Sales-and-Finance-Analytics-on-Excel/blob/master/Sales_analysis/Customer%20Performance%20Report-2.png">
+<img width="700" alt="image" src="https://github.com/akrammujawar5364/Sales-and-Finance-Analytics-on-Excel/blob/main/Customer%20Performance%20Report.pdf">
 
 **Insights:** 
 - In 2019, we generated revenue from 87.5 million.
@@ -142,7 +142,7 @@ Financial reports are critical tools for thoroughly assessing economic trends, d
 
 ### 📌2.Market Performance vs. Sales Targets Comparison: It offers a thorough analysis of how our sales efforts align with our goals and market conditions.
 
-<img width="700" alt="image" src="https://github.com/rajeshkumar1312/Sales-and-Finance-Analytics-on-Excel/blob/master/Sales_analysis/Market%20Performance%20vs%20Target%20Report-1.png">
+<img width="700" alt="image" src="https://github.com/akrammujawar5364/Sales-and-Finance-Analytics-on-Excel/blob/main/Market%20Performance%20vs%20Target%20Report.pdf">
 
 **Insights:**
 
@@ -152,7 +152,7 @@ Financial reports are critical tools for thoroughly assessing economic trends, d
 
 ### 📌3.Yearly Profit and Loss (P&L) Report: This report breaks down our financial performance for each fiscal year, showing where we made and lost.
 
-<img width="700" alt="image" src="https://github.com/rajeshkumar1312/Sales-and-Finance-Analytics-on-Excel/blob/master/Finacial_Analysis/P%26L%20By%20Fiscal%20Year(1).png">
+<img width="700" alt="image" src="https://github.com/akrammujawar5364/Sales-and-Finance-Analytics-on-Excel/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf">
 
 **Insights:** 
 - Our three-year Profit and Loss report showcases impressive growth in Net Sales, surging by 204.5% from 87.5 million to 598.9 million.
@@ -162,19 +162,20 @@ Financial reports are critical tools for thoroughly assessing economic trends, d
 
 ### 📌4.Quarterly Profit and Loss (P&L) Comparison:** We analyze and compare the financial performance for each quarter, revealing trends in how we're doing throughout the year.
 
-<img width="700" alt="image" src="https://github.com/rajeshkumar1312/Sales-and-Finance-Analytics-on-Excel/blob/master/Finacial_Analysis/P%26L%20by%20Months.png">
+<img width="700" alt="image" src="https://github.com/akrammujawar5364/Sales-and-Finance-Analytics-on-Excel/blob/main/P%26L%20by%20Months.pdf">
 
 **Insights:** Our sales went up a over the years, especially in 2021, where they more than doubled compared to 2020. Despite increased costs, we managed to keep a good profit margin. This means we're making more revenue while being efficient with our expenses, which is great for the business.
 
 ### 📌5.Market-Specific Profit and Loss (P&L) Report:** This report breaks down the financial performance for each market we operate in.
 
-<img width="700" alt="image" src="https://github.com/rajeshkumar1312/Sales-and-Finance-Analytics-on-Excel/blob/master/Finacial_Analysis/P%26L%20by%20market-1.png">
+<img width="700" alt="image" src="https://github.com/akrammujawar5364/Sales-and-Finance-Analytics-on-Excel/blob/main/P%26L%20Statement%20by%20Markets.pdf">
 
 **Insights:** 
 - Sales numbers for different markets Japan and New Zealand have the highest profit margins, which means we make more revenue relative to our costs in these markets.
 - Markets like Germany and Norway have lower profit margins, meaning we earn less compared to our expenses in these areas.
 - The United Kingdom and the USA are big markets where we earn a lot, but their profit margins are in the middle range. 
 - Overall, we're doing well as we maintain a healthy profit margin of 36.43% across all markets.
+
 
 **Insights:** 
 -Our profit margins changed over time. For example, the ANZ region's margin decreased, while the North American region's stayed steady. This helps us understand how different areas are doing and make decisions.
