@@ -1,4 +1,4 @@
-# Sales-and-Finance-Analytics-on-Excel
+
 # Sales-and-Finance-Analytics-on-Excel
 [LinkedIn Post](https://www.linkedin.com/posts/akrammujawar_sales-analytics-profit-loss-activity-7318120310170431488-Nnnx?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEriYH8BeNKOgniUzKYjjb9CPzfXRAZKNOo)
 
@@ -177,9 +177,6 @@ Financial reports are critical tools for thoroughly assessing economic trends, d
 - The United Kingdom and the USA are big markets where we earn a lot, but their profit margins are in the middle range. 
 - Overall, we're doing well as we maintain a healthy profit margin of 36.43% across all markets.
 
-### 📌6.Quarterly Gross Margin Percentage (GM%) by Location:** It provides a detailed view of profitability in different geographic areas.
-
-<img width="700" alt="image" src="https://github.com/rajeshkumar1312/Sales-and-Finance-Analytics-on-Excel/blob/master/Finacial_Analysis/GM%25%20by%20SubZones.png">
 
 **Insights:** 
 -Our profit margins changed over time. For example, the ANZ region's margin decreased, while the North American region's stayed steady. This helps us understand how different areas are doing and make decisions.
